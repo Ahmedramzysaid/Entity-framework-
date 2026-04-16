@@ -1,0 +1,15 @@
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\bin\Debug\net8.0\DominLayer.deps.json
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\bin\Debug\net8.0\DominLayer.dll
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\bin\Debug\net8.0\DominLayer.pdb
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.csproj.AssemblyReference.cache
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.AssemblyInfoInputs.cache
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.AssemblyInfo.cs
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.csproj.CoreCompileInputs.cache
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.sourcelink.json
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.dll
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\refint\DominLayer.dll
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.pdb
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\ref\DominLayer.dll
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\bin\Debug\net8.0\DominLayer.runtimeconfig.json
+D:\Education\RouteASP Tasks\BOOKSTORE\DominLayer\obj\Debug\net8.0\DominLayer.genruntimeconfig.cache
